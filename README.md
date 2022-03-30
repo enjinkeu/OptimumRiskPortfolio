@@ -7,7 +7,7 @@ this projects aims to help new investor pick the best combination of crypto asse
 
 ## Installation
 
-you need to run OptimumRiskPortfolio.py file to load data and get list of portfolios using the modern portfolio theory and conditional Value at Risk metric (efficient frontier)
+you need to run PortfolioRisk.py file to load data and get list of portfolios using the modern portfolio theory and conditional Value at Risk metric (efficient frontier)
 
 ## Credits
 
